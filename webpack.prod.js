@@ -7,7 +7,7 @@ module.exports = merge(common, {
     entry: [
         'core-js/stable',
         'regenerator-runtime/runtime',
-        './index.js'
+        './client/index.js'
     ],
     mode: 'production',
     module: {

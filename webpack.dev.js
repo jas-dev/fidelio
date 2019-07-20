@@ -8,7 +8,7 @@ module.exports = merge(common, {
         'core-js/stable',
         'regenerator-runtime/runtime',
         'webpack-dev-server/client?http://localhost:' + PORT,
-        './index.js'
+        './client/index.js'
     ],
     devtool: 'inline-source-map',
     mode: 'development',

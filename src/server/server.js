@@ -13,7 +13,6 @@ const db = mysql.createConnection(mysqlcredentials);
 const server = express();
 
 server.use(cors());
-server.use(express.static(__dirname+'/html')); //argument is a path
 server.use(express.urlencoded({extended: false}));//have express pull body data that is urlencoded
 server.use(express.json()); //used for things like axios
 

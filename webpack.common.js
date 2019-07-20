@@ -3,8 +3,8 @@ const { resolve } = require('path');
 module.exports = {
     output: {
         filename: 'bundle.[name].js',
-        path: resolve(__dirname, 'dist'),
-        publicPath: '/'
+        path: resolve(__dirname, 'public', 'dist'),
+        publicPath: '/dist/'
     },
     optimization: {
         splitChunks: {

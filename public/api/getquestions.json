@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": [
+    {
+      "question_id": 1,
+      "user_id": 1,
+      "title": "who",
+      "topic": "how to ask a question",
+      "created": "2019/07/22",
+      "content": "who is the inventor of linux?",
+      "answer": "linus torvalds",
+      "answer_date": "2019/07/22",
+      "updated": null,
+      "answer_source": "google"
+    },
+    {
+      "question_id": 2,
+      "user_id": 1,
+      "title": "what",
+      "topic": "how to ask a question",
+      "created": "2019/07/22",
+      "content": "what is linux?",
+      "answer": "linux is an open source operating system used in computers and devices",
+      "answer_date": "2019/07/22",
+      "updated": null,
+      "answer_source": "google"
+    },
+    {
+      "question_id": 3,
+      "user_id": 1,
+      "title": "where",
+      "topic": "how to ask a question",
+      "created": "2019/07/22",
+      "content": "where was linux created?",
+      "answer": "linux was created in the united states",
+      "answer_date": "2019/07/22",
+      "updated": null,
+      "answer_source": "google"
+    }
+  ]
+}
+
+
+
+

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../assets/css/app.scss';
 import AddQuestion from './addQuestion'
-import StudentTable from "../../../../frontend/react_sgt/src/components/app";
+
 
 class App extends Component {
     state = {

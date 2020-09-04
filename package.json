@@ -52,7 +52,7 @@
     "eslint": "^5.15.3",
     "eslint-plugin-react": "^7.14.2",
     "file-loader": "^2.0.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^3.0.0",
     "react-hot-loader": "^4.12.8",
     "regenerator-runtime": "^0.13.3",
